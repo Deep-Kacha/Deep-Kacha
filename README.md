@@ -1,6 +1,4 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Deep-Kacha&style=for-the-badge&color=blue)
-![Repos](https://img.shields.io/badge/Public%20Repos-View%20on%20Profile-blue?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Deep-Kacha?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Deep-Kacha?style=for-the-badge)
 
 ## Hi there 👋  
@@ -27,4 +25,4 @@
 ---
 
 ### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dee)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deep-Kacha)
