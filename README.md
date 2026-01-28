@@ -1,43 +1,30 @@
-![Repos](https://img.shields.io/github/repos/Deep-Kacha?style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=Deep-Kacha&style=for-the-badge&color=blue)
+![Repos](https://img.shields.io/badge/Public%20Repos-View%20on%20Profile-blue?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Deep-Kacha?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Deep-Kacha?style=for-the-badge)
-![Following](https://img.shields.io/github/following/Deep-Kacha?style=for-the-badge)
-![Visitors](https://komarev.com/ghpvc/?username=Deep-Kacha&style=for-the-badge&color=blue)
 
 ## Hi there 👋  
 ## I'm Deep Kacha
 
-🚀 Passionate developer | 💻 Tech enthusiast | 🌱 Always learning
+🚀 Passionate Developer | 💻 Tech Enthusiast | 🌱 Always Learning
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on improving my development skills
-- 🌱 I’m currently learning new technologies and frameworks
-- 👯 I’m looking to collaborate on open-source projects
+- 🔭 Currently improving my development skills
+- 🌱 Learning modern technologies and frameworks
+- 👯 Open to collaborating on open-source projects
 - 💬 Ask me about programming & tech
 - ⚡ Fun fact: I love exploring new tools and ideas
 
 ---
 
-### 📈 GitHub Stats
-
-![Deep-Kacha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deep-Kacha&show_icons=true&count_private=true&theme=tokyonight)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deep-Kacha&show_icons=true&count_private=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-Kacha&layout=compact&theme=tokyonight)
 
 ---
 
-### 🟩 Contribution Graph
-
-![GitHub Contribution Graph](https://github.com/Deep-Kacha.png)
-
----
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Deep-Kacha/Deep-Kacha/blob/output/github-contribution-grid-snake.svg)
-
----
-
-⭐️ *Thanks for visiting my profile!*
+### 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dee)
